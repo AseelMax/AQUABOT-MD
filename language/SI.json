@@ -1,9 +1,9 @@
 {
-    "LANGUAGE": "English",
-    "LANGCODE": "en",
-    "AUTHOR"  : "sanuwa official",
+    "LANGUAGE": "Arabic",
+    "LANGCODE": "ar",
+    "AUTHOR"  : "aseel official",
     "STRINGS" : { 
-                  "aqua" : {   
+                  "aseel" : {   
                             "COMMAND"   : " Command " ,
                             "DESC"      : " Description " ,
                             "EXAMPLE"  : "උදා",
