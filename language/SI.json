@@ -4,51 +4,51 @@
     "AUTHOR"  : "sanuwa official",
     "STRINGS" : { 
                   "aqua" : {   
-                            "COMMAND"  : "විධානය",
-                            "DESC"     : "විස්තරය",
+                            "COMMAND"   : " Command " ,
+                            "DESC"      : " Description " ,
                             "EXAMPLE"  : "උදා",
-                            "NOT_FOUND": "*විධානය හමු නොවීය.*",
-                            "WARN"     : "අනතුරු ඇගවීම"
+                            "NOT_FOUND" : " *Command not found.* " ,
+                            "WARN"      : " Warning "
                            },
                   "yt" :   {
-                            "N_SONG"   : "*🧜‍♀️💬ගීතයක නමක් ඇතුළත් කරන්න.*\nඋදා : .song faded" ,
-                            "NOT_SONG" : "*ගීතය හමු නොවීය‼️*" ,
-                            "S_YT"     : "*🔍 YOUTUBE හි සොයමින්...*" ,
-                            "N_YT"     : "*🧜‍♀️💬මාතෘකාවක් ඇතුළත් කරන්න.* \n :උදා : .getyt sri lanka cricket" ,
-                            "N_VID"    : "*🧜‍♀️💬YOUTUBE වීඩියෝ LINK එකක් ඇතුළත් කරන්න.*\nඋදා : .video https://aseeladayahs.blogspot.com" ,
-                            "NOT_VID"  : "*වීඩියෝව හමු නොවීය‼️*",
-                            "N_TIK"    : "*🧜‍♀️💬කරුණාකර tiktok වීඩියෝ link එකක් ඇතුළත් කරන්න.*" ,
-                            "N_MF"     : "*🧜‍♀️💬කරුණාකර mediafire link එකක් ඇතුළත් කරන්න.*" , 
-                            "N_FB"     : "*🧜‍♀️💬කරුණාකර ෆේස්බුක් වීඩියෝ link එකක් ඇතුළත් කරන්න.*" , 
-                            "N_IG "    : "*🧜‍♀️💬කරුණාකර instagram link එකක් ඇතුළත් කරන්න.*",
-                            "N_FOUND"  : "*හමු නොවීය‼️*"
+                            "N_SONG"    : " *🧜‍♀️💬Enter a song name.* \n eg : .song faded " ,
+                            "NOT_SONG" : " *Song not found‼️* " ,
+                            "S_YT"      : " *🔍 SEARCHING ON YOUTUBE...* " ,
+                            "N_YT"      : " *Enter a title🧜‍♀️💬.* \n :eg : .getyt sri lanka cricket " ,
+                            "N_VID"     : " *Enter a 🧜‍♀️💬YOUTUBE VIDEO LINK.* \n Eg : .video https://aseeladayahs.blogspot.com " ,
+                            "NOT_VID"   : " *Video not found‼️* " ,
+                            "N_TIK"     : " *🧜‍♀️💬Please enter a tiktok video link.* " ,
+                            "N_MF"      : " *🧜‍♀️💬Please enter a mediafire link.* " ,
+                            "N_FB"      : " *🧜‍♀️💬Please enter a Facebook video link.* " ,
+                            "N_IG "     : " *🧜‍♀️💬Please enter an instagram link.* " ,
+                            "N_FOUND"   : " *NOT FOUND‼️* "
                           } ,
                 "admin" : {  
-                             "UR_NOT_ADMIN"  : "🧜‍♀️💬 ඔබ කණ්ඩායම් පරිපාලකවරයෙකු නොවේ.*!*",
-                             "IM_NOT_ADMIN"  : "🧜‍♀️💬 මම මෙම කණ්ඩායමේ පරිපාලකයෙකු නොවේ.*!*",
-                             "BANNED"        : "ඉවත් කෙරුණා!",
-                             "GIVE_ME_USER"  : "*🧜‍♀️💬 සාමාජිකයෙකු mention කරන්න!*",                       
-                             "USER_IS_ADMIN" : "*🧜‍♀️💬 කණ්ඩායම් පරිපාලකවරයෙකු ඉවත් කළ නොහැක!*" ,
-                             "ADDED"         : "කණ්ඩායමට එකතු කරන ලදි!" ,
-                             "E_USER"        : "*🧜‍♀️💬 + ලකුණ හා හිස්තැන් රහිතව රටෙහි කේතය සමග කණ්ඩායමට එකතු කළ යුතු අංකය ඇතුලත් කරන්න.*",
-                             "ISN_ADMIN"     : "*🧜‍♀️💬ඔබ mention කළ පුද්ගලයා කණ්ඩායම් පරිපාලකයෙකු නොවේ.*",
-                             "IS_ADMIN"      : "*🧜‍♀️💬ඔබ mention කළ පුද්ගලයා කණ්ඩායම් පරිපාලකයෙකි.*",
-                             "MUTE"          : "*🧜‍♀️💬කණ්ඩායම පරිපාලකවරුන්ට පමණක් chat කළ හැකි ආකාරයට ක්‍රියා කරයි.*",
-                             "UNMUTE"        : "*🧜‍♀️💬කණ්ඩායම සියලුම සාමාජිකයන්ට chat කළ හැකි ආකාරයට ක්‍රියා කරයි.*",
-                             "PROMOTE"       : "පරිපාලකයෙකු බවට පත් කරන ලදී !",
-                             "DEMOTE"        : "පරිපාලක තනතුරෙන් ඉවත් කෙරුනා !"
+                             "UR_NOT_ADMIN"   : " 🧜‍♀️💬 You are not a group admin.*!* " ,
+                             "IM_NOT_ADMIN"   : " 🧜‍♀️💬 I am not an admin of this group.*!* " ,
+                             "BANNED"         : " Removed! " ,
+                             "GIVE_ME_USER"   : " *🧜‍♀️💬 Mention a member!* " ,                       
+                             "USER_IS_ADMIN" : " *🧜‍♀️💬 Cannot remove a group admin!* " ,
+                             "ADDED"          : " Added to group! " ,
+                             "E_USER"         : " *🧜‍♀️💬 Enter the number to be added to the group with the country code without the + sign and spaces.* " ,
+                             "ISN_ADMIN"      : " *🧜‍♀️💬The person you mentioned is not a group admin.* " ,
+                             "IS_ADMIN"       : " *🧜‍♀️💬The person you mentioned is a group admin.* " ,
+                             "MUTE"           : " *🧜‍♀️💬group will act like only admins can chat.* " ,
+                             "UNMUTE"         : " *🧜‍♀️💬The group works so that all members can chat.* " ,
+                             "PROMOTE"        : " Made an admin ! " ,
+                             "DEMOTE"         : " Removed from admin position ! "
                            },
                 "stic" : {
-                              "NEED"   : "*🧜‍♀️💬 ඡායාරූපයක් , වීඩියෝවක් mention කරන්න*" ,
-                              "C_STIC" : "```🧰 ස්ටිකරය නිර්මාණය කරමින් පවතී...```" ,
-                              "N_STIC" : "*🧜💬 කරුණාකර ස්ටිකරයක් mention කරන්න.*" ,
-                              "C_IMG"  : "```🧰 ස්ටිකරය ඡායාරූපයක් බවට පත් කරමින්...```" ,
-                              "C_VID"  : "```🧰ස්ටිකරය වීඩියෝවක් බවට පත් කරමින්...```" 
+                              "NEED"    : " *🧜‍♀️💬 mention a photo, video* " ,
+                              "C_STIC" : " Creating ```🧰 sticker...``` " ,
+                              "N_STIC" : " *🧜💬 Please mention a sticker.* " ,
+                              "C_IMG"   : " Converting the ```🧰 sticker into a photo...``` " ,
+                              "C_VID"   : " Converting ```🧰sticker to video...``` " 
                            },
                
                 "apk"  :  {  
-                              "N_LINK" : "*🧜‍♀️💬google playstore app link එකක් ඇතුළත් කරන්න.*" ,
-                              "ERROR"  : "*🧜‍♀️💬APK ගොනුව හමු නොවීය.*"
+                              "N_LINK" : " *Enter a google playstore app link🧜‍♀️💬.* " ,
+                              "ERROR"   : " *🧜‍♀️💬APK file not found.* "
     
                            },
         "filters": {
@@ -57,23 +57,23 @@
             "FILTERS": "*🔎 There is your filters in this chat:*",
             "NEED_REPLY": "*❌ Please type in reply!*\n*Example:*",
             "FILTERED": "*✅ Successfully set* ```{}``` *to filter!*",
-            "STOP_DESC": "ඔබ කලින් එකතු කළ පෙරණය නවත්වයි.",
+            "STOP_DESC" : " Stops the filter you added earlier. " ,
             "NEED_FILTER": "*❌ Please type a filter!*\n*Example:*",
             "ALREADY_NO_FILTER": "*❌ There is already no filter like this!*",
             "DELETED": "*✅ The filter was successfully deleted!*"
         },
         "greetings": {
             
-            "NOT_SET_WELCOME": "*🧜‍♀️💬ඔබ තවමත් පිළිගැනීමේ පණිවිඩය සකසා නැත.!*\n**සැකසීමට:** ```.welcome ඔබගේ පිළිගැනීමේ පණිවිඩය```",
-            "WELCOME_ALREADY_SETTED": "*✅ පිළිගැනීමේ පණිවිඩය දැනටමත් සකසා ඇත!*\n*පණිවුඩය:* ```",
-            "NEED_WELCOME_TEXT": "*🧜‍♀️💬පිළිගැනීමේ පණිවිඩය සැකසීමට ඔබ පණිවිඩයක් ලිවිය යුතුය.*\n*Example:* ```.welcome WELCOME!```",
-            "WELCOME_DELETED": "*✅ පිළිගැනීමේ පණිවිඩය සාර්ථකව මකා දමා ඇත!*",
-            "WELCOME_SETTED": "*✅ පිළිගැනීමේ පණිවිඩය සාර්ථකව සකසා ඇත!*",
-            "NOT_SET_GOODBYE": "*🧜‍♀️💬ඔබ සමුගැනීමේ පණිවිඩයක් සකසා නැත!*\n*To set:* ```.goodbye ඔබගේ ආයුබෝවන් පණිවිඩය```",
-            "GOODBYE_ALREADY_SETTED": "*✅ සමුගැනීමේ පණිවිඩය සකසා ඇත!*\n*Message:* ```",
-            "NEED_GOODBYE_TEXT": "*🧜‍♀️💬සමුගැනීමේ පණිවිඩය සැකසීමට ඔබ පණිවිඩයක් ලිවිය යුතුය.*\n*Example:* ```.goodbye Goodbye!```",
-            "GOODBYE_DELETED": "*✅ සමුගැනීමේ පණිවිඩය සාර්ථකව මකා දමා ඇත!*",
-            "GOODBYE_SETTED": "*✅ සමුගැනීමේ පණිවිඩය සාර්ථකව සකසා ඇත!*"
+            "NOT_SET_WELCOME" : " *🧜‍♀️💬You have not yet set the welcome message.!* \n **To set:** ```.welcome is your welcome message ''" ,
+            "WELCOME_ALREADY_SETTED" : " * ✅ Welcome message already set!* \n *Message:* ``` " ,
+            "NEED_WELCOME_TEXT" : " *🧜‍♀️💬You need to write a message to set the welcome message.* \n *Example:* ```.welcome WELCOME!``` " ,
+            "WELCOME_DELETED" : " * ✅ Welcome message successfully deleted!* " ,
+            "WELCOME_SETTED" : " * ✅ Welcome message successfully set!* " ,
+            "NOT_SET_GOODBYE" : " *🧜‍♀️💬You have not set a goodbye message!* \n *To set:* ```.goodbye is your goodbye message ''" ,
+            "GOODBYE_ALREADY_SETTED" : " *Goodbye message set!* \n *Message:* ``` " ,
+            "NEED_GOODBYE_TEXT" : " *🧜‍♀️💬You need to write a message to set the goodbye message.* \n *Example:* ```.goodbye Goodbye!``` " ,
+            "GOODBYE_DELETED" : " * ✅ Goodbye message successfully deleted!* " ,
+            "GOODBYE_SETTED" : " * ✅ Goodbye message successfully set!* "
         }
              
 
